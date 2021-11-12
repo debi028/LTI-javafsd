@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'azure-debiprasad'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_825F50A6030644348419BB7BB01C0B99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04796FFA00224B109B34DDD3AFD559C8 }}
           package: '*.jar'
